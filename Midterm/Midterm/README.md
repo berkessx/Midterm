@@ -3,7 +3,7 @@
 This is a REST API developed for a mobile provider's billing system as a midterm assignment. It handles mobile usage tracking, bill calculation, and authentication through JWT.
 
 Swagger UI
-Swagger is available at: https://localhost:7291/swagger/index.html
+Swagger is available at: [https://localhost:7291/swagger/index.html](https://midterm20250423220935-c0cpatede9a5e0c6.francecentral-01.azurewebsites.net/swagger/index.html)
 
 //Technologies Used
 
