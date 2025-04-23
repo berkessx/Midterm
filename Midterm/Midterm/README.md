@@ -33,13 +33,16 @@ POST /api/auth/login
 }
 You will receive a token and To use this token, click the Authorize button on the Swagger UI and enter: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9....
 
-Method     Endpoint               Description
-
 Post       /api/auth/login       Login to get JWT token
-Post       /api/usage            Add phone or internet usage    
+
+Post       /api/usage            Add phone or internet usage  
+
 Post       /api/usage/calculate  Calculates bill based on usage
+
 Get        /api/bill             Returns basic bill info
+
 Get        /api/bill/detail      Returns detailed bill breakdown
+
 Post       /api/bill/pay         Simulates bill payment
 
 Ex:
